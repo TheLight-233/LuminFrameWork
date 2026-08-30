@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuminFrameWork", "LuminFrameWork\LuminFrameWork.csproj", "{D95AE52A-6C27-41BF-A9BF-F926181EBBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95AE52A-6C27-41BF-A9BF-F926181EBBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95AE52A-6C27-41BF-A9BF-F926181EBBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95AE52A-6C27-41BF-A9BF-F926181EBBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95AE52A-6C27-41BF-A9BF-F926181EBBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
